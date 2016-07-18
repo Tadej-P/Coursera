@@ -1,0 +1,40 @@
+body {
+    color: black;
+    background-color: white;
+    font-size: 16px;
+}
+
+#header-nav {
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 0;
+}
+
+.navbar-brand h1 {
+    font-size: 1em;
+    color: black;
+    font-weight: bold;
+    margin: auto;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#nav-list {
+    margin: 0 -15px;
+    background-color: white;
+}
+
+#nav-list li{
+    border-top: 1px solid black;
+}
+
+#nav-list a{
+    color: black;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: lightgray;
+}
