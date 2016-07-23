@@ -22,7 +22,8 @@ body {
 }
 
 #nav-list {
-    margin: 0 -15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     background-color: white;
 }
 
@@ -32,9 +33,27 @@ body {
 
 #nav-list a{
     color: black;
-    text-align: center;
 }
 
 #nav-list a:hover {
     background: lightgray;
+}
+
+#collapsable-nav {
+    border: none;
+}
+
+.navbar-header .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+section {
+    background-color: lightgray;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+#first, #second, #third {
+    padding-left: 5px;
+    padding-right: 5px;
 }
