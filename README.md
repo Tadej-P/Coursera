@@ -6,3 +6,5 @@ solution for module 2 problem: https://tadej-p.github.io/Coursera/module2_soluti
 solution for module 3 problem: https://tadej-p.github.io/Coursera/module3_solution/
 
 solution for module 4 problem: https://tadej-p.github.io/Coursera/module4_solution/
+
+solution for module 5 problem: https://tadej-p.github.io/Coursera/module5_solution/
